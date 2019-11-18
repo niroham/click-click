@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aquaman",
+    "img": "assets/image/aquaman.jpg",
+    "clicked": true
+  },
+  {
+    "name": "Batman",
+    "img": "assets/image/batman.png",
+    "clicked": false
+  },
+  {
+    "name": "Cyborg",
+    "img": "assets/image/cyborg.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Flash",
+    "img": "assets/image/flash.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Green Lantern",
+    "img": "assets/image/greenlantern.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Harley Quinn",
+    "img": "assets/image/harleyquinn.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Iceman",
+    "img": "assets/image/iceman.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Joker",
+    "img": "assets/image/joker.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Shazam",
+    "img": "assets/image/shazam.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Spawn",
+    "img": "assets/image/spawn.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Superman",
+    "img": "assets/image/superman.jpg",
+    "clicked": false
+  },
+  {
+    "name": "Wonder Woman",
+    "img": "assets/image/wonderwoman.jpg",
+    "clicked": false
+  }
+]
