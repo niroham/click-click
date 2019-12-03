@@ -25,6 +25,7 @@ class App extends React.Component {
       });
     } else {
       alert("its been clicked");
+      alert("Game Over");
     }
   };
 
